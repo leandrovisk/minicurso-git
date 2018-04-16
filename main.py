@@ -1,5 +1,5 @@
 a = 1
 b = 2
 
-print("Resultado:")
-pint(a+b)
+print("1 + 2 = ")
+print(a+b)
