@@ -6,7 +6,6 @@ print(a+b)
 
 print("VAMO")
 
-
 a = 1000
 
 print (a)
